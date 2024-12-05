@@ -13,6 +13,7 @@ This tutorial outlines the step-by-step process of training the lightweight Conv
 **EfficientNet** is a family of models (B0–B7) that balance computational efficiency and accuracy. Higher-numbered models require more computational resources and larger datasets, while lower-numbered models are lightweight and suitable for resource-constrained environments. 
 
 For this project, we selected the **EfficientNet-B0** CNN model due to its efficiency, ease of training, and minimal computational demands. This lightweight model is ideal for deployment in distributed systems, such as smart bins, where compactness and low-power requirements are critical.
+
 ---
 
 #### About Our Data
